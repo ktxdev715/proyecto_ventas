@@ -1,0 +1,5 @@
+# Archivos a ignorar
+*.tmp
+node_modules/
+.env
+__pycache__/
