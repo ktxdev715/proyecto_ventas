@@ -1,0 +1,1 @@
+Guardar los archivos de salida para graficar
